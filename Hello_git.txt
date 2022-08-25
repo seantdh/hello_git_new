@@ -1,0 +1,2 @@
+Hello git
+Make local repository then push to remote repository
