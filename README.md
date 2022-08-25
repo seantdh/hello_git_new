@@ -1,2 +1,2 @@
 # hello_git_new
-Training git cho fresher
+Training git for fresher
